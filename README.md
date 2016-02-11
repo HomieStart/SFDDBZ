@@ -1,4 +1,4 @@
-# SFDDBZ
+# SFD-DBZ
 
 # XHomieDBZ on SFD!
 Version: 1.0v
