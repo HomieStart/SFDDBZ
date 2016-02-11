@@ -9,7 +9,7 @@
 # < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
 # <== IF THiS SERVED FOR YOU, DON'T FORGET NOT TO MENTION AND THANKS GOOD MAN ! :) ==>
 # < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
-/*
+
  COMMENTS
  Thanks for follows and read this comment by XHomie
 
@@ -17,7 +17,6 @@
  Please wait for the final version to have a clear view of the clean code.
 
  you can report for bugs to Xhomie Post.
-*/
 
 # < PLEASE WAIT, IT'S NOT FINISH, THANKS :) > !!!
 # < PLEASE WAIT, IT'S NOT FINISH, THANKS :) > !!!
@@ -60,4 +59,3 @@ private static DBZ_XH XH;public void OnStartup(){if(XH == null) XH = new DBZ_XH(
 # < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
 # <== IF THiS SERVED FOR YOU, DON'T FORGET NOT TO MENTION AND THANKS GOOD MAN ! :) ==>
 # < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
-# """"""""""""""""" XHomie for the community """"""""""""""""""*/
